@@ -9,3 +9,5 @@ Additionally, there's an initialization section where you enter a period in days
 The application will initially be created without registration and as a rich client with a client-side database. It will be as simple as possible, without modal windows, with basic input and output, displaying only the most basic metrics that can be understood at a glance.
 
 This project is licensed under the MIT License.
+
+[link to figma file:](https://www.figma.com/design/5eZrOjMZpIZB69dn8KM05i/Financial-Accumulator?node-id=52-38&t=c8rmB2VwLe0Y7OrW-1)
